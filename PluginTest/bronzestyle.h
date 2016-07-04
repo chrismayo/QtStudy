@@ -5,6 +5,7 @@
 #include <QPalette>
 #include <QPainter>
 #include <QIcon>
+#include <QStyleOptionViewItem>
 class BronzeStyle : public QCommonStyle
 {
     Q_OBJECT

@@ -10,7 +10,6 @@ class BronzeStylePlugin : public QStylePlugin
 public:
     QStringList keys() const;
     QStyle* create(const QString &key);
-
 };
 
 #endif // BRONZESTYLEPLUGIN_H
