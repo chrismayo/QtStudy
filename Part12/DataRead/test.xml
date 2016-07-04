@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons name="Qt">
+<persion id="1">
+<name>ge</name>
+<age>24</age>
+<email>chrismayo@163.com</email>
+<webside>www.chrismayo.com</webside>
+</persion>
+<persion id="2">
+<name>hai</name>
+<age>24</age>
+<email>hailang@163.com</email>
+<webside>www.hailang.com</webside>
+</persion>
+</persons>

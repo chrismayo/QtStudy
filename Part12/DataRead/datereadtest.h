@@ -10,6 +10,9 @@ class DateReadTest : public QWidget
 public:
     DateReadTest(QWidget *parent = 0);
     ~DateReadTest();
+
+private:
+    void parse(QString file_name);
 };
 
 #endif // DATEREADTEST_H
